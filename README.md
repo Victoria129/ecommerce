@@ -1,1 +1,1 @@
-This is an ecommerce project for online shopping still under development.
+This is an ecommerce project for an online shopping site (still under development).
